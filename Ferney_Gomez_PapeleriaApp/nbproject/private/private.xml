@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/Categoria.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/FacturaDAOImpl.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/Principal.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/FrmUsuarios.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/FacturaItem.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/ClienteDAOImpl.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/Factura.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/Usuario.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/FacturaDAO.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/CategoriaDAOImpl.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/Producto.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/ProductoDAOImpl.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/FrmProductos.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/FrmClientes.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/CategoriaDAO.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/FrmFacturas.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/PapeleriaApp.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/database/DBConnection.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/model/Cliente.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/ProductoForm.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Deninson%20Gomez/Documents/Ferney_Gomez_PapeleriaApp/src/papeleria/ui/FrmAcercaDe.java</file>
+        </group>
+    </open-files>
+</project-private>
