@@ -89,6 +89,7 @@ Buscar
 Esto evita mezclar SQL con la interfaz y hace que el código sea más profesional.
 
 7. Tecnologías Utilizadas
+   
 | Tecnología              | Uso                         |
 | ----------------------- | --------------------------- |
 | **Java SE**             | Desarrollo de la aplicación |
